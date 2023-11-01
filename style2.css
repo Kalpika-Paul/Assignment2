@@ -1,0 +1,37 @@
+nav
+{ height: 0px;
+    background-color: black;
+}
+.health
+{
+    font-size:150%;
+    color:rgb(236, 85, 15);
+    text-align: right;
+    
+}
+header{
+    height:667px;
+    background-image:url('senior-health-hero5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+b{
+    font-size: 200%;
+    background-color:palegreen;
+}
+
+i{
+    font-size:150%;
+    color:rgb(236, 85, 15);
+    text-align: right;
+    background-color: palegreen;
+}
+
+section
+{
+ height: 400px;
+background-color: grey;
+text-align: center;
+    
+}
